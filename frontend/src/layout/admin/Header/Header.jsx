@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
   return (
     <header className='d-flex justify-content-center'>
-      <div className="container d-flex justify-content-between align-items-center">
+      <div className="container d-flex  bg-light justify-content-between align-items-center">
        <div style={{width:"80%"}} className='header__left d-flex align-items-center justify-content-around bg-light text-dark p-4'>
        <div className='header__left__logo d-flex gap-2 align-items-center'>
        <img width={"51px"} height={"43px"} src="https://preview.colorlib.com/theme/course/images/logo.png.webp" alt="" />

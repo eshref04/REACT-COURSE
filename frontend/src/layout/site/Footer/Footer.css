@@ -46,3 +46,69 @@ footer{
     transition: 0.3s linear;
 }
 
+.footer__mid__left__logo span{
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+   
+}
+
+.footer__mid__left p{
+    margin-top: 24px;
+    font-size: 14px;
+    line-height: 2.29;
+    font-weight: 400;
+    color: #a5a5a5;
+}
+
+.footer__mid .container ul{
+   list-style: none;
+   margin-top: 32px;
+   font-size: 15px;
+}
+
+.footer__mid .container ul li{
+    transition: 0.3s linear;
+    cursor: pointer;
+    color: #a5a5a5;
+    margin-right: 100px;
+}
+
+.footer__mid .container ul li i{
+    font-size: 20px;
+    color: #FFB606;
+ }
+
+ .footer__mid .container ul li:hover{
+   color: #FFB606;
+ }
+
+.footer__mid__menu p,.footer__mid__links p,.footer__mid__contact p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-top: 15px;
+    margin-left: 31px;
+}
+
+.footer__mid .container{
+    padding: 50px 0px;
+}
+
+.footer__down .container span{
+    color: #a5a5a5;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.footer__down__icons i{
+  font-size: 15px;
+  color: white;
+  transition: 0.3s linear;
+  cursor: pointer;
+}
+
+.footer__down__icons i:hover{
+    color: #FFB606;
+}
