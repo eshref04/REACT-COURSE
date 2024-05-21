@@ -1,0 +1,18 @@
+.cards__section h1{
+    color: #1a1a1a;
+    font-weight: 500;
+    padding-top: 24px;
+    position: relative;
+}
+
+.cards__section h1::before{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 55px;
+    height: 4px;
+    content: '';
+    background: #ffb606;
+}

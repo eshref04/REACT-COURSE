@@ -1,0 +1,16 @@
+form{
+    width: 600px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+form input{
+    width: 90%;
+}
+
+form button{
+    width: 180px;
+}
